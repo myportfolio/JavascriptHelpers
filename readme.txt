@@ -1,0 +1,1 @@
+This repository consists of few javascript utilities developed for re-using in other web applications.
